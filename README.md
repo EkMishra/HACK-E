@@ -20,6 +20,8 @@ Our platform has a backend support system based on xmapp appliciation which supp
 
 We hope you find our platform useful for your hackathon events. If you have any questions or feedback, please don't hesitate to contact us.
 
+Github page:- https://ekmishra.github.io/HACK-E/
+
 project made by-
 SANJEEV SITARAMAN - https://github.com/Sanjeevroars
 SAHIL PAHAPALE - https://github.com/Sahil-pahapale
